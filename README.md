@@ -49,10 +49,7 @@ bash
 ### 2️⃣ Install Dependencies
 
 Ensure you have Python installed, then install the required dependencies:
-
-#### bash
-```pip install ultralytics opencv-python numpy matplotlib```
-Or install from requirements.txt:
+install from requirements.txt:
 
 #### bash
 ```pip install -r requirements.txt```
